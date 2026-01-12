@@ -20,16 +20,20 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=hanlyang0522&theme=radical" />
-</p>
-
 <br>
 
 ### 🛠 Tech Stack
-<div align="center">
+
+**Language & Frameworks**
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</div>
+
+**Industrial Vision & GUI**
+<div align="left">
+  <img src="https://img.shields.io/badge/MFC-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HALCON-003D79?style=flat-square&logo=MVtec&logoColor=white"/>
 </div>
