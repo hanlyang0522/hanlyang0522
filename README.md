@@ -13,32 +13,23 @@
 
 ### 📊 Github Stats & Baekjoon
 <p align="center">
-  <a href="https://github.com/hanlyang0522">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hanlyang0522&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  </a>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hanlyang0522&theme=radical" />
+  
   <a href="https://solved.ac/profile/hoyang0522">
     <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoyang0522" />
   </a>
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=hanlyang0522&theme=radical" />
+</p>
+
 <br>
 
 ### 🛠 Tech Stack
-
-<!--
-**hanlyang0522/hanlyang0522** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/
-https://velog.io/@loakick/Shield-IO-%EC%82%AC%EC%9A%A9%EB%B2%95-iojyndy4pi
--->
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+</div>
